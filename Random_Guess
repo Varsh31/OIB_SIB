@@ -1,4 +1,4 @@
-mport java.util.*;
+import java.util.*;
 public class Random_Guess {
 	public static void guessgame() {
 		try (Scanner input = new Scanner(System.in)) {
